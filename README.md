@@ -25,6 +25,7 @@
 
 <div style="display:flex; flex-wrap: wrap;">
 	<img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB">
+	<img src="https://img.shields.io/badge/next.js-%23000000.svg?&style=for-the-badge&logo=next.js&logoColor=white" />
 </div>
 
 <br />
